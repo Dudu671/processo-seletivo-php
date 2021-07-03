@@ -14,7 +14,7 @@ git clone https://github.com/Dudu671/processo-seletivo-php.git
 
 <hr/>
 
-## Vá até o PHPMyAdmin e importe o arquivo SQL localizado dentro do projeto no diretório src/database. Para fazê-lo, basta selecionar seguir os passos:
+## Vá até o PHPMyAdmin e importe o arquivo SQL localizado dentro do projeto no diretório src/database. Para fazê-lo, basta seguir os passos:
 
 -> Selecione "Novo" no menu lateral à esquerda;
 
